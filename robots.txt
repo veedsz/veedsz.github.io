@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://veedsz.github.io/VlB/sitemap.VlB.gz
